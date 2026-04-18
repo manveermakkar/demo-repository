@@ -2,4 +2,4 @@
 demo of a repository
 <br>
 author-Manveer Makkar
-Hi!,I'm Manveer Makkar,19 years old
+Hi!,I'm Manveer Makkar,19 years old ,studying btech cse 
